@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,Slow Karadeniz TV
+https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
+
+#EXTINF:-1,Rize Türk TV
+https://yayin.rizeturk.com:3777/multi_web/play.m3u8
+
+#EXTINF:-1,Slow Karadeniz FM
+https://dinle.slowkaradenizfm.com:9578/;
+
+#EXTINF:-1,Karadeniz Türk
+https://radyo.yayin.com.tr:6134/;
